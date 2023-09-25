@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background-image: url('C:\\Users\\manas\\Downloads\\what_is_mental_health.webp'); /* Use your provided file path */
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    text-align: center;
+    background-color: #b71c1c; /* Dark red background color */
+    color: #fff;
+    padding: 10px 0;
+}
+
+h1 {
+    color: #fff;
+}
+
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Darker background with transparency */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    color: #b71c1c; /* Red headings */
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: #ccc;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.input-box {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.5); /* Darker input box background with transparency */
+    color: #fff;
+}
+
+input[type="range"] {
+    width: 100%;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    background-color: #b71c1c; /* Red button background color */
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #870000; /* Darker red on hover */
+}
+
+.center-align {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.question {
+    text-align: center;
+}
+.question {
+    text-align: center;
+    margin-bottom: 10px; /* Add some space between questions */
+}
+
+.input-box {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.5); /* Darker input box background with transparency */
+    color: #fff;
+    text-align: center; /* Center-align text within the dropdowns */
+}
